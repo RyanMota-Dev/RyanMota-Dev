@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Ryan Pereira da Mota , tenho 19 anos e sou natural de São Paulo. Atualmente, estou cursando Desenvolvimento de Softaware Multiplataforma na Fatec. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Atualmente cursando Desenvolvimento de Software Multiplataforma na FATEC Mauá, tenho conhecimentos em C#, Java, Javascript , SQL e outras linguagens, tendo utilizado Spring Boot e .NET para criação de APIs e aplicações web. Me dedico ao máximo nas coisas que faço e estou sempre buscando aprender algo novo. Procuro uma oportunidade de estágio ou trainee onde eu possa aplicar o que já venho desenvolvendo e crescer na área de tecnologia.
 
 
 ### 🤖 Linguagens e Tecnologias
@@ -31,15 +31,22 @@ Me chamo Ryan Pereira da Mota , tenho 19 anos e sou natural de São Paulo. Atual
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-
+<img 
+    align="left" 
+    alt="Csharp" 
+    title="C#"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+/>
 
 <img 
     align="left" 
-    alt="Next.js" 
-    title="Next.js"
+    alt="Java" 
+    title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
 <img 
     align="left" 
@@ -51,20 +58,20 @@ Me chamo Ryan Pereira da Mota , tenho 19 anos e sou natural de São Paulo. Atual
 />
 <img 
     align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
+    alt="Docker" 
+    title="Docker"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
 />
 <img 
     align="left" 
-    alt="SASS" 
-    title="SASS"
+    alt="Git" 
+    title="Git"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+          />
 <img 
     align="left" 
     alt="PHP" 
@@ -89,6 +96,15 @@ Me chamo Ryan Pereira da Mota , tenho 19 anos e sou natural de São Paulo. Atual
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img 
+    align="left" 
+    alt="SqlServer" 
+    title="Sql Server"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" 
+    />
+          
 
 <br/>
 <br/>
