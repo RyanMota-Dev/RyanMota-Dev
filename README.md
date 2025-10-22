@@ -9,7 +9,7 @@ Atualmente cursando Desenvolvimento de Software Multiplataforma na FATEC Mauá, 
         <img 
             alt="Gmail Account" 
             title="Gmail" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" />
+            src="?logo=gmail_new_logo_icon_159149" />
     </a>
     <a href="www.linkedin.com/in/ryanpereira-dev">
         <img 
