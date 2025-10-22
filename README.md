@@ -12,7 +12,8 @@ Atualmente cursando Desenvolvimento de Software Multiplataforma na FATEC Mauá, 
     <img src="https://img.shields.io/badge/Email-ryanpereira.dev%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://www.linkedin.com/in/ryanpereira-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-ryanpereira%2Ddev-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="![LinkedIn](https://img.shields.io/badge/LinkedIn-ryanpereira%2Ddev-blue?style=for-the-badge&logo=linkedin&logoColor=white)"
+>
   </a>
 </p>
 
