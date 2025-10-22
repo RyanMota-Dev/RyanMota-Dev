@@ -139,5 +139,3 @@ Atualmente cursando Desenvolvimento de Software Multiplataforma na FATEC Mauá, 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanMota-dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
-
-<br clear="all/>
