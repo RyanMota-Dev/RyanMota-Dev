@@ -140,4 +140,4 @@ Atualmente cursando Desenvolvimento de Software Multiplataforma na FATEC Mauá, 
   />
 </p>
 
-<br clear="all
+<br clear="all/>
