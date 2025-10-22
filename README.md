@@ -22,8 +22,6 @@ Atualmente cursando Desenvolvimento de Software Multiplataforma na FATEC Mauá, 
 
 
 <p align="center">
-
-
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -129,8 +127,7 @@ Atualmente cursando Desenvolvimento de Software Multiplataforma na FATEC Mauá, 
     title="Sql Server"
     width="30px" 
     style="padding-right: 10px;" 
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
-                        
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />                  
 </p>
 
 <br/>
