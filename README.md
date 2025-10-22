@@ -4,6 +4,23 @@
 
 Atualmente cursando Desenvolvimento de Software Multiplataforma na FATEC Mauá, tenho conhecimentos em C#, Java, Javascript , SQL e outras linguagens, tendo utilizado Spring Boot e .NET para criação de APIs e aplicações web. Me dedico ao máximo nas coisas que faço e estou sempre buscando aprender algo novo. Procuro uma oportunidade de estágio ou trainee onde eu possa aplicar o que já venho desenvolvendo e crescer na área de tecnologia.
 
+<p align="left">
+    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
+        <img 
+            alt="Gmail Account" 
+            title="Gmail" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" />
+    </a>
+    <a href="www.linkedin.com/in/ryanpereira-dev">
+        <img 
+            alt="LinkedIn Profile" 
+            title="LinkedIn" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" 
+            />
+            </a>
+        </p>
+
+
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -80,13 +97,6 @@ Atualmente cursando Desenvolvimento de Software Multiplataforma na FATEC Mauá, 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Spring" 
-    title="Spring"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
 <img 
     align="left" 
     alt="Spring" 
