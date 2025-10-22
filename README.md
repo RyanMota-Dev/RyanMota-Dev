@@ -9,16 +9,18 @@ Atualmente cursando Desenvolvimento de Software Multiplataforma na FATEC Mauá, 
 
 <p align="center">
   <a href="mailto:ryanpereira.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-seuemail%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-ryanpereira.dev%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="www.linkedin.com/in/ryanpereira-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-seulinkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/ryanpereira-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-ryanpereira%2Ddev-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
 
 
 
 
+
+<p align="center">
 
 
 ### 🤖 Linguagens e Tecnologias
@@ -128,7 +130,7 @@ Atualmente cursando Desenvolvimento de Software Multiplataforma na FATEC Mauá, 
     style="padding-right: 10px;" 
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
                         
-          
+</p>
 
 <br/>
 <br/>
