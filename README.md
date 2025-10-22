@@ -21,8 +21,11 @@ Atualmente cursando Desenvolvimento de Software Multiplataforma na FATEC Mauá, 
 
 
 
-<p align="center">
+  
 ### 🤖 Linguagens e Tecnologias
+
+<p align="center">
+
 
 <img 
     align="left" 
