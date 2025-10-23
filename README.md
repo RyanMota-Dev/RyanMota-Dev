@@ -5,7 +5,7 @@
 Atualmente cursando Desenvolvimento de Software Multiplataforma na FATEC Mauá, tenho conhecimentos em C#, Java, Javascript , SQL e outras linguagens, tendo utilizado Spring Boot e .NET para criação de APIs e aplicações web. Me dedico ao máximo nas coisas que faço e estou sempre buscando aprender algo novo. Procuro uma oportunidade de estágio ou trainee onde eu possa aplicar o que já venho desenvolvendo e crescer na área de tecnologia.
 
 
-## 📬 Contato
+## Contato
 
 <p align="center">
   <a href="mailto:ryanpereira.dev@gmail.com">
@@ -17,7 +17,7 @@ Atualmente cursando Desenvolvimento de Software Multiplataforma na FATEC Mauá, 
 </p>
 
   
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <p align="center">
 
